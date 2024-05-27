@@ -10,10 +10,10 @@
 - 🛠️ **Ferramentas e Tecnologias:** Git
 
 ## Estudando Atualmente
-- 💻 **Linguagens de Programação:** JavaScript, Python
-- 📚 **Frameworks e Bibliotecas:** React, Node.js, React Native, Docker, Firebase
-- 🛠️ **Ferramentas e Tecnologias:** Git, Docker, Firebase
-- 🗄️ **Banco de Dados:** MySQL, MongoDB
+- 💻 **Linguagens de Programação:** JavaScript
+- 📚 **Frameworks e Bibliotecas:** Node.js
+- 🛠️ **Ferramentas e Tecnologias:** Git, Github
+- 🗄️ **Banco de Dados:** MongoDB
 
 ## Projetos
 ### [Portfólio: barbaDev.com](https://barbaDev.com)
